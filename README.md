@@ -1,7 +1,7 @@
 ### What Up Fam?
 
 - 🔭 **I’m currently working on:** my job, Rails, Express, React and React Native
-- 🌱 **I’m currently learning:** Rust 🦀💓, Web Assembly, [Ember](https://guides.emberjs.com/release/tutorial/part-1/) GR, QFT, Blockchain, Electron, C and Cpp
+- 🌱 **I’m currently learning:** Rust 🦀💓, Web Assembly, [Ember](https://emberjs.com/learn/), GR, QFT, Blockchain, Electron, C and Cpp
 - 👯 **I’m looking to collaborate on:** Pretty much anything, I love pair programming.
 - 🤔 **I’m looking for help with:** All the above ☝️
 - 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering
