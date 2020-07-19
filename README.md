@@ -1,16 +1,31 @@
-### Hi there 👋
+### S'🆙
 
-<!--
-**librity/librity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - Rails
+  - Express
+  - React and React Native
+- 🌱 I’m currently learning:
+  - Rust 🦀💓
+  - Web Assembly
+  - General Relativity
+  - Quantum Field Theory
+  - Blockchain
+  - Electron
+  - C and Cpp
+- 👯 I’m looking to collaborate on:
+  - Pretty much anything, I love pair programming.
+- 🤔 I’m looking for help with:
+  - All the above ☝️
+- 💬 Ask me about:
+  - Rails
+  - React
+  - Node
+  - Physics
+  - Math
+  - Electrical and Petroleum Engineering
+- 📫 How to reach me:
+  - luis.geniole@gmail.com (I check it almost every day)
+- ⚡ Fun facts:
+  - I like turtles 🐢
+  - I also like turtoises 🐢
+  - Elephants are cool too 🐘
