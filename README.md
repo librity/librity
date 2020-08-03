@@ -1,6 +1,6 @@
 # Luis Geniole
 
-[![Github](https://img.shields.io/github/followers/librity?label=Follow&style=social)](https://github.com/librity)
+[![Github](https://img.shields.io/github/followers/librity?label=Followers&style=social)](https://github.com/librity)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=librity)](https://github.com/librity)
 [![Linkedin](https://img.shields.io/badge/-Luis%20Geniole-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-geniole-b2b22aba/)](https://www.linkedin.com/in/luis-geniole-b2b22aba/)
 [![Mail](https://img.shields.io/badge/-luis.geniole@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:luis.geniole@gmail.com)
