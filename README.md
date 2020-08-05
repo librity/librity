@@ -22,7 +22,7 @@
 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/index.html"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
@@ -58,10 +58,10 @@
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/clojure/index.html"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/emberjs/index.html"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/index.html"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/emberjs/emberjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 
 ### Stats
 
