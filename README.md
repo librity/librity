@@ -30,18 +30,23 @@
 
 ### Techs
 
-[<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1200px-EmacsIcon.svg.png"></code>](https://www.gnu.org/software/emacs/documentation.html)
 [<code><img height="50" src="https://rubyonrails.org/images/rails-logo.svg"></code>](https://guides.rubyonrails.org/)
+[<code><img height="50" src="https://rspec.info/images/logo.png"></code>](https://relishapp.com/rspec)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>](https://nodejs.org/en/docs/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>](https://expressjs.com/en/4x/api.html)
+[<code><img height="50" src="https://d33wubrfki0l68.cloudfront.net/72901cd2af29b26e7000165d9cb90366820717a1/dd121/writing/graphql-with-next-js-and-apollo/nextjs.svg"></code>](https://nextjs.org/docs)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>](https://webpack.js.org/concepts/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>](https://reactjs.org/docs/getting-started.html)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>](https://jestjs.io/docs/en/getting-started.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>](https://socket.io/docs/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>](https://graphql.org/learn/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>](https://sass-lang.com/documentation)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>](https://redis.io/documentation)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>](https://sequelize.org/master/)
+[<code><img height="50" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png"></code>](https://typeorm.io/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg"></code>](https://adonisjs.com/docs/4.1/lucid)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>](https://www.postgresql.org/docs/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>](https://dev.mysql.com/doc/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>](https://sqlite.org/docs.html)
@@ -56,6 +61,7 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>](https://www.raspberrypi.org/documentation/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>](https://www.arduino.cc/reference/en/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>](https://curl.haxx.se/docs/)
+[<code><img height="50" src="https://download.logo.wine/logo/GNU_Emacs/GNU_Emacs-Logo.wine.png"></code>](https://www.gnu.org/software/emacs/documentation.html)
 
 ### Learning
 
