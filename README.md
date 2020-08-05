@@ -8,7 +8,7 @@
 ### How's it going?
 
 - 🔭 **I’m currently working on:** my job, Rails, Express, React and React Native
-- 🌱 **I’m currently learning:** Rust 🦀💓, Web Assembly, [Ember](https://emberjs.com/learn/), GR, QFT, Blockchain, Electron, C and Cpp
+- 🌱 **I’m currently learning:** Rust 🦀💓, Web Assembly, [Ember](https://emberjs.com/learn/), GR, QFT, Blockchain, Electron, C and Cpp, Ethereum
 - 🤝 **I’m looking to collaborate on:** Pretty much anything, I love pair programming.
 - 🤔 **I’m looking for help with:** All the above ☝️
 - 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering
@@ -22,8 +22,8 @@
 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/index.html"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
@@ -31,21 +31,37 @@
 
 <code><img height="50" src="https://rubyonrails.org/images/rails-logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
+
+### Learning
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/clojure/index.html"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/emberjs/index.html"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/index.html"></code>
 
 ### Stats
 
