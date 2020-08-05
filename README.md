@@ -13,11 +13,8 @@
 - 🤔 **I’m looking for help with:** All the above ☝️
 - 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering
 - 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day)
-- ⚡ **Fun facts:**
-  - I like turtles 🐢
-  - I also like turtoises 🐢
-  - Elephants are cool too... 🐘
-  
+- ⚡ **Fun facts:** I like turtles 🐢
+
 ### Languages
 
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>](https://isocpp.org/std/the-standard)
