@@ -8,7 +8,7 @@
 ### How's it going?
 
 - 🔭 **I’m currently working on:** my job, Rails, Express, React and React Native
-- 🌱 **I’m currently learning:** Rust 🦀💓, Web Assembly, [Ember](https://emberjs.com/learn/), GR, QFT, Blockchain, Electron, C and Cpp, Ethereum
+- 🌱 **I’m currently learning:** [Rust 🦀💓](https://www.rust-lang.org/), [Web Assembly](https://webassembly.org/), [Ember](https://emberjs.com/learn/), [GR](https://www.youtube.com/playlist?list=PLDlWMHnDwyliqBCB4JaugtpCZXR9-k7s0), [QFT](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic), [Electron](https://www.electronjs.org/), [Ethereum + Solidity](https://solidity.readthedocs.io/en/v0.7.0/)
 - 🤝 **I’m looking to collaborate on:** Pretty much anything, I love pair programming.
 - 🤔 **I’m looking for help with:** All the above ☝️
 - 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering
@@ -34,7 +34,6 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
@@ -65,6 +64,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/emberjs/emberjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
 
 ### Stats
 
