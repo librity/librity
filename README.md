@@ -17,6 +17,7 @@
 
 ### Languages
 
+[<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>](https://isocpp.org/std/the-standard)
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>](https://www.mathworks.com/help/matlab/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
