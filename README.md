@@ -80,12 +80,17 @@
 <details>
   <summary>Portifolio</summary>
   
-  - https://aqueous-basin-41886.herokuapp.com
-  - https://cranky-bardeen-64c698.netlify.app/
-  - https://hungry-kowalevski-d85f58.netlify.app/
-  - https://romantic-leakey-7b01c7.netlify.app/
+  #### Rails
+
+  - https://sampleapp1776.herokuapp.com/
   - https://neodesk.herokuapp.com/
-  - https://vigilant-yonath-21474b.netlify.app/
-  - https://pedantic-lumiere-586af7.netlify.app/
-  - https://vibrant-payne-a548a3.netlify.app/
+  
+  #### Node
+
+  - https://github1776.netlify.app/
+  - https://gobarber1776.netlify.app/
+  - https://gympoint1776.netlify.app/
+  - https://tuttoinlegno.netlify.app/
+  - https://bethehero1776.netlify.app/
+  - https://githubrepos1776.netlify.app/
 </details>
