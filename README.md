@@ -1,5 +1,7 @@
 # Luis Geniole
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/librity.gif?z=6)](https://github.com/ethomson/github4life)
+
 [![Github](https://img.shields.io/github/followers/librity?label=Followers&style=social)](https://github.com/librity)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=librity)](https://github.com/librity)
 [![Linkedin](https://img.shields.io/badge/-Luis%20Geniole-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-geniole-b2b22aba/)](https://www.linkedin.com/in/luis-geniole-b2b22aba/)
@@ -72,6 +74,7 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>](https://www.electronjs.org/docs)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>](https://ethereum.org/en/developers/)
 [<code><img height="50" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg"></code>](https://solidity.readthedocs.io/en/v0.7.0/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>](https://www.jenkins.io/doc/tutorials/)
 
 ### Stats
 
