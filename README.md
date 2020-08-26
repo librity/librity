@@ -15,7 +15,8 @@
 - 🤔 **I’m looking for help with:** All the above ☝️
 - 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering
 - 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day)
-- ⚡ **Fun facts:** I love bagpipes.
+- ⚡ **Fun facts:** I love bagpipes <img src="http://www.sherv.net/cm/emo/funny/2/banana-with-bagpipes-smiley-emoticon.gif">
+
 
 ### Languages
 
