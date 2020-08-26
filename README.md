@@ -15,7 +15,7 @@
 - 🤔 **I’m looking for help with:** All the above ☝️
 - 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering
 - 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day)
-- ⚡ **Fun facts:** I like turtles 🐢
+- ⚡ **Fun facts:** I love bagpipes.
 
 ### Languages
 
