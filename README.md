@@ -14,8 +14,6 @@
 - 🤔 **I’m looking for help with:** All the above ☝️
 - 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering
 - 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day)
-- ⚡ **Fun facts:** I love bagpipes <img src="http://www.sherv.net/cm/emo/funny/2/banana-with-bagpipes-smiley-emoticon.gif">
-
 
 ### Languages
 
@@ -75,6 +73,13 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>](https://ethereum.org/en/developers/)
 [<code><img height="50" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg"></code>](https://solidity.readthedocs.io/en/v0.7.0/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>](https://www.jenkins.io/doc/tutorials/)
+
+### [42 Sao Paulo 🥰](https://www.42sp.org.br/)
+
+<code><img width="100" style="border-radius: 10px;" src="./.github/Comunidade-1.png"></code>
+<code><img width="100" style="border-radius: 10px;" src="./.github/Helper-1.png"></code>
+<code><img width="100" style="border-radius: 10px;" src="./.github/Reconhecimento-de-Campo.png"></code>
+<code><img width="100" style="border-radius: 10px;" src="./.github/Vila-Unida-1.png"></code>
 
 ### Stats
 
