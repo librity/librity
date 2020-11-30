@@ -81,6 +81,10 @@
 <code><img width="100" style="border-radius: 10px;" src="./.github/Reconhecimento-de-Campo.png"></code>
 <code><img width="100" style="border-radius: 10px;" src="./.github/Vila-Unida-1.png"></code>
 
+<code><img width="100" style="border-radius: 10px;" src="./.github/Comunidade-2.png"></code>
+<code><img width="100" style="border-radius: 10px;" src="./.github/Helper-2.png"></code>
+<code><img width="100" style="border-radius: 10px;" src="./.github/Primeiras-trilhas.png"></code>
+
 ### Stats
 
 ![Luis' stats](https://github-readme-stats.vercel.app/api?username=librity&show_icons=true)
