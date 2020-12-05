@@ -85,6 +85,12 @@
 <code><img width="100" style="border-radius: 10px;" src="./.github/Helper-2.png"></code>
 <code><img width="100" style="border-radius: 10px;" src="./.github/Primeiras-trilhas.png"></code>
 
+<code><img width="100" style="border-radius: 10px;" src="./.github/explorador.png"></code>
+<code><img width="100" style="border-radius: 10px;" src="./.github/Super-comunidade.png"></code>
+<code><img width="100" style="border-radius: 10px;" src="./.github/Super-Helper.png"></code>
+<code><img width="100" style="border-radius: 10px;" src="./.github/Super-Vila.png"></code>
+<code><img width="100" style="border-radius: 10px;" src="./.github/Finished.png"></code>
+
 ### Stats
 
 ![Luis' stats](https://github-readme-stats.vercel.app/api?username=librity&show_icons=true)
