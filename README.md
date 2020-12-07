@@ -74,7 +74,7 @@
 [<code><img height="50" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg"></code>](https://solidity.readthedocs.io/en/v0.7.0/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>](https://www.jenkins.io/doc/tutorials/)
 
-### [42 Sao Paulo 🥰](https://www.42sp.org.br/)
+### [42 S. Paulo 🥰](https://www.42sp.org.br/)
 
 <code><img width="100" style="border-radius: 10px;" src="./.github/Comunidade-1.png"></code>
 <code><img width="100" style="border-radius: 10px;" src="./.github/Helper-1.png"></code>
@@ -84,11 +84,13 @@
 <code><img width="100" style="border-radius: 10px;" src="./.github/Comunidade-2.png"></code>
 <code><img width="100" style="border-radius: 10px;" src="./.github/Helper-2.png"></code>
 <code><img width="100" style="border-radius: 10px;" src="./.github/Primeiras-trilhas.png"></code>
-
 <code><img width="100" style="border-radius: 10px;" src="./.github/explorador.png"></code>
+
+<code><img width="100" style="border-radius: 10px;" src="./.github/Foco-2.png"></code>
 <code><img width="100" style="border-radius: 10px;" src="./.github/Super-comunidade.png"></code>
 <code><img width="100" style="border-radius: 10px;" src="./.github/Super-Helper.png"></code>
 <code><img width="100" style="border-radius: 10px;" src="./.github/Super-Vila.png"></code>
+
 <code><img width="100" style="border-radius: 10px;" src="./.github/Finished.png"></code>
 
 ### Stats
