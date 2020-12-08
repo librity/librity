@@ -3,6 +3,7 @@
 [![GitHub Game of Life](https://github4life.herokuapp.com/librity.gif?z=6)](https://github.com/ethomson/github4life)
 
 [![Github](https://img.shields.io/github/followers/librity?label=Followers&style=social)](https://github.com/librity)
+[![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=librity.librity)](https://github.com/librity)
 [![Linkedin](https://img.shields.io/badge/-Luis%20Geniole-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-geniole-b2b22aba/)](https://www.linkedin.com/in/luis-geniole-b2b22aba/)
 [![Mail](https://img.shields.io/badge/-luis.geniole@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:luis.geniole@gmail.com)
 
@@ -93,9 +94,16 @@
 
 <code><img width="100" style="border-radius: 10px;" src="./.github/Finished.png"></code>
 
-### Stats
+### Stats :octocat:
 
-![Luis' stats](https://github-readme-stats.vercel.app/api?username=librity&show_icons=true)
+<center>
+  <table>
+    <tr>
+      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=librity&show_icons=true&theme=dracula></td>
+      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=librity&show_icons=true&theme=dracula&layout=compact></td>
+    </tr>  
+  </table>
+</center>
 
 <details>
   <summary>Portifolio</summary>
