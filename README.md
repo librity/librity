@@ -16,13 +16,15 @@
 - 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering
 - 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day)
 
-### What I profess
+### My profession
 
 - I believe code is a form of artistic expression much like writing, painting, and music.
 - As a proper artform, I believe coding can't be learned by traditional means: 
   - No one sat Hemingway down in a classroom and taught him how to write Hemingway;
   - Hemingway learned how to right Hemingway by writting a lot Hemingway.
-- I hereby take upon myself this instruction: to share my knowledge of this trade with all who seek it, as it is shared to me daily by those before me.
+- I hereby take upon myself this instruction:
+  - To recognize the knowledge given to me by those before me.
+  - To share the knowledge of this craft with all who seek it.
 
 ### Languages
 
