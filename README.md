@@ -9,7 +9,7 @@
 
 ### How's it going?
 
-- 🔭 **I’m currently working on:** my job, Rails, Express, React and React Native
+- 🔭 **I’m currently working on:** @42SaoPaulo, my job, Rails, Express, React and React Native
 - 🌱 **I’m currently learning:** [Rust 🦀💓](https://www.rust-lang.org/), [Web Assembly](https://webassembly.org/), [Ember](https://emberjs.com/learn/), [GR](https://www.youtube.com/playlist?list=PLDlWMHnDwyliqBCB4JaugtpCZXR9-k7s0), [QFT](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic), [Electron](https://www.electronjs.org/), [Ethereum + Solidity](https://solidity.readthedocs.io/en/v0.7.0/)
 - 🤝 **I’m looking to collaborate on:** Pretty much anything, I love pair programming.
 - 🤔 **I’m looking for help with:** All the above ☝️
