@@ -9,12 +9,18 @@
 
 ### How's it going?
 
-- 🔭 **I’m currently working on:** @42SaoPaulo, my job, Rails, Express, React and React Native
-- 🌱 **I’m currently learning:** [Rust 🦀💓](https://www.rust-lang.org/), [Web Assembly](https://webassembly.org/), [Ember](https://emberjs.com/learn/), [GR](https://www.youtube.com/playlist?list=PLDlWMHnDwyliqBCB4JaugtpCZXR9-k7s0), [QFT](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic), [Electron](https://www.electronjs.org/), [Ethereum + Solidity](https://solidity.readthedocs.io/en/v0.7.0/)
-- 🤝 **I’m looking to collaborate on:** Pretty much anything, I love pair programming.
-- 🤔 **I’m looking for help with:** All the above ☝️
-- 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering
-- 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day)
+- 🔭 **I’m currently working on:**
+  - [42 S. Paulo 🥰](https://www.42sp.org.br/) and loving every minute of it.
+  - My job, Rails, ReactJS and React Native.
+- 🌱 **I’m currently learning:** 
+  - [Rust 🦀💓](https://www.rust-lang.org/) & [Web Assembly](https://webassembly.org/)
+  - [Elixir](https://hexdocs.pm/elixir/Kernel.html) & [Phoenix](https://hexdocs.pm/phoenix/Phoenix.html)
+  - [The Linux Kernel](https://github.com/torvalds/linux)
+  - [GR](https://www.youtube.com/playlist?list=PLDlWMHnDwyliqBCB4JaugtpCZXR9-k7s0) and [QFT](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+- 🤝 **I’m looking to collaborate on:** Pretty much anything.
+- 🤔 **I’m looking for help with:** All the above ☝️.
+- 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering.
+- 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day).
 
 ### Languages
 
@@ -70,7 +76,6 @@
 [<code><img height="50" src="https://cdn-images-1.medium.com/max/1600/1*W9maDRfdQbydm_aECrzAiQ.png"></code>](https://hexdocs.pm/phoenix/Phoenix.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg"></code>](https://clojure.org/api/api)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>](https://www.lua.org/docs.html)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/emberjs/emberjs-ar21.svg"></code>](https://guides.emberjs.com/release/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>](https://www.tensorflow.org/guide/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>](https://www.electronjs.org/docs)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>](https://ethereum.org/en/developers/)
@@ -123,4 +128,6 @@
   - https://gympoint1776.netlify.app/
   - https://bethehero1776.netlify.app/
   - https://githubrepos1776.netlify.app/
+  - https://moveit-lfwxit6xp-librity.vercel.app/
+
 </details>
