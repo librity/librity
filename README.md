@@ -130,4 +130,8 @@
   - https://githubrepos1776.netlify.app/
   - https://moveit-lfwxit6xp-librity.vercel.app/
 
+  #### Hugo
+
+  - https://42devdiaries.netlify.app/
+
 </details>
