@@ -16,17 +16,17 @@
 
 ### My name is Lior and I really like Code
 
-- 🔭 **I’m currently working on:**
+- 🔭 **I'm currently working on:**
   - [42 S. Paulo 🥰](https://www.42sp.org.br/) and loving every minute of it.
   - My job, Rails, ReactJS and React Native.
-- 🌱 **I’m currently learning:** 
+- 🌱 **I'm currently learning:**
   - [Rust 🦀💓](https://www.rust-lang.org/) & [Web Assembly](https://webassembly.org/)
   - [Elixir](https://hexdocs.pm/elixir/Kernel.html) & [Phoenix](https://hexdocs.pm/phoenix/Phoenix.html)
   - [The Linux Kernel](https://github.com/torvalds/linux)
   - [GR](https://www.youtube.com/playlist?list=PLDlWMHnDwyliqBCB4JaugtpCZXR9-k7s0) and [QFT](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
-- 🤝 **I’m looking to collaborate on:** Pretty much anything.
-- 🤔 **I’m looking for help with:** All the above ☝️.
-- 💬 **Ask me about:** Ruby, Rails, React, Node, Physics, Math, Electronic and Petroleum Engineering.
+- 🤝 **I'm looking to collaborate on:** Pretty much anything.
+- 🤔 **I'm looking for help with:** All the above ☝️.
+- 💬 **Ask me about:** Ruby, Rails, Elixir, Phoenix, React, Node, Physics, Math, Electronic and Petroleum Engineering.
 - 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day).
 
 ### Languages
@@ -36,12 +36,14 @@
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>](https://www.mathworks.com/help/matlab/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>](https://www.typescriptlang.org/docs)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"></code>](https://hexdocs.pm/elixir/Kernel.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>](https://www.ruby-lang.org/en/documentation/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>](https://devdocs.io/bash/)
 
 ### Techs
 
+[<code><img height="50" src="https://cdn-images-1.medium.com/max/1600/1*W9maDRfdQbydm_aECrzAiQ.png"></code>](https://hexdocs.pm/phoenix/Phoenix.html)
 [<code><img height="50" src="https://rubyonrails.org/images/rails-logo.svg"></code>](https://guides.rubyonrails.org/)
 [<code><img height="50" src="https://rspec.info/images/logo.png"></code>](https://relishapp.com/rspec)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>](https://nodejs.org/en/docs/)
@@ -79,8 +81,6 @@
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://doc.rust-lang.org/std/index.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>](https://developer.mozilla.org/en-US/docs/WebAssembly)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"></code>](https://hexdocs.pm/elixir/Kernel.html)
-[<code><img height="50" src="https://cdn-images-1.medium.com/max/1600/1*W9maDRfdQbydm_aECrzAiQ.png"></code>](https://hexdocs.pm/phoenix/Phoenix.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg"></code>](https://clojure.org/api/api)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>](https://www.lua.org/docs.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>](https://www.tensorflow.org/guide/)
@@ -121,24 +121,24 @@
 
 <details>
   <summary>Portifolio</summary>
-  
-  #### Rails
 
-  - https://sampleapp1776.herokuapp.com/
-  - https://neodesk.herokuapp.com/
-  
-  #### Node
+#### Rails
 
-  - https://www.tuttoinlegno.com.br/
-  - https://github1776.netlify.app/
-  - https://gobarber1776.netlify.app/
-  - https://gympoint1776.netlify.app/
-  - https://bethehero1776.netlify.app/
-  - https://githubrepos1776.netlify.app/
-  - https://moveit-lfwxit6xp-librity.vercel.app/
+- https://sampleapp1776.herokuapp.com/
+- https://neodesk.herokuapp.com/
 
-  #### Hugo
+#### Node
 
-  - https://42devdiaries.netlify.app/
+- https://www.tuttoinlegno.com.br/
+- https://github1776.netlify.app/
+- https://gobarber1776.netlify.app/
+- https://gympoint1776.netlify.app/
+- https://bethehero1776.netlify.app/
+- https://githubrepos1776.netlify.app/
+- https://moveit-lfwxit6xp-librity.vercel.app/
+
+#### Hugo
+
+- https://42devdiaries.netlify.app/
 
 </details>
