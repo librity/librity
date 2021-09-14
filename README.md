@@ -22,7 +22,8 @@
 - 🌱 **I'm currently learning:**
   - [Rust 🦀💓](https://www.rust-lang.org/) & [Web Assembly](https://webassembly.org/)
   - [Elixir](https://hexdocs.pm/elixir/Kernel.html) & [Phoenix](https://hexdocs.pm/phoenix/Phoenix.html)
-  - [The Linux Kernel](https://github.com/torvalds/linux)
+  - [Golang](https://golang.org/doc) & [Blockchain](https://en.wikipedia.org/wiki/Peer-to-peer)
+  - [C](https://devdocs.io/c) & [The Linux Kernel](https://github.com/torvalds/linux)
   - [GR](https://www.youtube.com/playlist?list=PLDlWMHnDwyliqBCB4JaugtpCZXR9-k7s0) and [QFT](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 - 🤝 **I'm looking to collaborate on:** Pretty much anything.
 - 🤔 **I'm looking for help with:** All the above ☝️.
@@ -40,6 +41,7 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>](https://www.ruby-lang.org/en/documentation/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>](https://devdocs.io/bash/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>](https://golang.org/doc/)
 
 ### Techs
 
@@ -82,7 +84,6 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://doc.rust-lang.org/std/index.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>](https://developer.mozilla.org/en-US/docs/WebAssembly)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg"></code>](https://clojure.org/api/api)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>](https://golang.org/doc/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>](https://www.lua.org/docs.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>](https://www.tensorflow.org/guide/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>](https://www.electronjs.org/docs)
