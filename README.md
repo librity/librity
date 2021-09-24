@@ -121,8 +121,7 @@
   </table>
 </center>
 
-<details>
-  <summary>Portifolio</summary>
+### Portifolio
 
 #### Rails
 
@@ -131,6 +130,7 @@
 
 #### Node
 
+- [Blockchain mining simulator](https://create-react-mine.vercel.app)
 - https://www.tuttoinlegno.com.br/
 - https://github1776.netlify.app/
 - https://gobarber1776.netlify.app/
@@ -142,5 +142,3 @@
 #### Hugo
 
 - https://42devdiaries.netlify.app/
-
-</details>
