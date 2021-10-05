@@ -1,4 +1,4 @@
-# ליאור בן יוסף
+# Luis Geniole
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/librity.gif?z=6)](https://github.com/ethomson/github4life)
 
@@ -14,7 +14,7 @@
 > Got the freedom to choose<br>
 > You better make the right move
 
-### My name is Lior and I really like Code
+### My name is Luis and I really like Code
 
 - 🔭 **I'm currently working on:**
   - [42 S. Paulo 🥰](https://www.42sp.org.br/) and loving every minute of it.
