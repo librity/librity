@@ -7,27 +7,20 @@
 [![Linkedin](https://img.shields.io/badge/-Luis%20Geniole-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-geniole-b2b22aba/)](https://www.linkedin.com/in/luis-geniole-b2b22aba/)
 [![Mail](https://img.shields.io/badge/-luis.geniole@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:luis.geniole@gmail.com)
 
-> Young man, control in your hand<br>
-> Slam your fist on the table<br>
-> And make your demand<br>
-> Take a stand, fan the fire for the flame of the youth<br>
-> Got the freedom to choose<br>
-> You better make the right move
-
 ### My name is Luis and I really like Code
 
 - 🔭 **I'm currently working on:**
-  - [42 S. Paulo 🥰](https://www.42sp.org.br/) and loving every minute of it.
-  - My job, Rails, ReactJS and React Native.
+  - [42 S. Paulo](https://www.42sp.org.br/)
+  - Blockchain.
 - 🌱 **I'm currently learning:**
-  - [Rust 🦀💓](https://www.rust-lang.org/) & [Web Assembly](https://webassembly.org/)
+  - [Rust](https://www.rust-lang.org/) & [Web Assembly](https://webassembly.org/)
   - [Elixir](https://hexdocs.pm/elixir/Kernel.html) & [Phoenix](https://hexdocs.pm/phoenix/Phoenix.html)
   - [Golang](https://golang.org/doc) & [Blockchain](https://en.wikipedia.org/wiki/Peer-to-peer)
   - [C](https://devdocs.io/c) & [The Linux Kernel](https://github.com/torvalds/linux)
-  - [GR](https://www.youtube.com/playlist?list=PLDlWMHnDwyliqBCB4JaugtpCZXR9-k7s0) and [QFT](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+  - [Solidity](https://docs.soliditylang.org/en/latest/) & [Haskell](https://www.haskell.org/documentation/)
 - 🤝 **I'm looking to collaborate on:** Pretty much anything.
 - 🤔 **I'm looking for help with:** All the above ☝️.
-- 💬 **Ask me about:** Ruby, Rails, Elixir, Phoenix, React, Node, Physics, Math, Electronic and Petroleum Engineering.
+- 💬 **Ask me about:** Ruby, Rails, Golang, Elixir, Phoenix, React, Node, Physics, Math, Electronic and Petroleum Engineering.
 - 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day).
 
 ### Languages
@@ -81,6 +74,7 @@
 
 ### Learning
 
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>](https://www.haskell.org/documentation/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://doc.rust-lang.org/std/index.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>](https://developer.mozilla.org/en-US/docs/WebAssembly)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg"></code>](https://clojure.org/api/api)
@@ -91,24 +85,28 @@
 [<code><img height="50" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg"></code>](https://solidity.readthedocs.io/en/v0.7.0/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>](https://www.jenkins.io/doc/tutorials/)
 
-### [42 S. Paulo 🥰](https://www.42sp.org.br/)
+### 42 - Projects
 
-<code><img width="100" style="border-radius: 10px;" src="./.github/Comunidade-1.png"></code>
-<code><img width="100" style="border-radius: 10px;" src="./.github/Helper-1.png"></code>
-<code><img width="100" style="border-radius: 10px;" src="./.github/Reconhecimento-de-Campo.png"></code>
-<code><img width="100" style="border-radius: 10px;" src="./.github/Vila-Unida-1.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/libft.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/get_next_line.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/netwhat.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/ft_printf.png"></code>
 
-<code><img width="100" style="border-radius: 10px;" src="./.github/Comunidade-2.png"></code>
-<code><img width="100" style="border-radius: 10px;" src="./.github/Helper-2.png"></code>
-<code><img width="100" style="border-radius: 10px;" src="./.github/Primeiras-trilhas.png"></code>
-<code><img width="100" style="border-radius: 10px;" src="./.github/explorador.png"></code>
+### 42 - Bootcamp Achievements
 
-<code><img width="100" style="border-radius: 10px;" src="./.github/Foco-2.png"></code>
-<code><img width="100" style="border-radius: 10px;" src="./.github/Super-comunidade.png"></code>
-<code><img width="100" style="border-radius: 10px;" src="./.github/Super-Helper.png"></code>
-<code><img width="100" style="border-radius: 10px;" src="./.github/Super-Vila.png"></code>
-
-<code><img width="100" style="border-radius: 10px;" src="./.github/Finished.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Finished.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Comunidade-1.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Helper-1.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Reconhecimento-de-Campo.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Vila-Unida-1.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Comunidade-2.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Helper-2.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Primeiras-trilhas.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/explorador.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Foco-2.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Super-comunidade.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Super-Helper.png"></code>
+<code><img width="120" style="border-radius: 10px;" src="./.github/Super-Vila.png"></code>
 
 ### Stats :octocat:
 
