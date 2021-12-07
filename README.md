@@ -89,7 +89,7 @@
 
 [<code><img width="120" style="border-radius: 10px;" src="./.github/libft.png"></code>](https://github.com/librity/ft_libft)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/get_next_line.png"></code>](https://github.com/librity/ft_get_next_line)
-<code><img width="120" style="border-radius: 10px;" src="./.github/netwhat.png"></code>
+[<code><img width="120" style="border-radius: 10px;" src="./.github/netwhat.png"></code>](https://github.com/librity/ft_netwhat)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_printf.png"></code>](https://github.com/librity/ft_printf)
 
 ### 42 - Bootcamp Achievements
