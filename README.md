@@ -10,7 +10,7 @@
 ### My name is Luis and I really like Code
 
 - 🔭 **I'm currently working on:**
-  - [42 S. Paulo](https://www.42sp.org.br/)
+  - [42 São Paulo](https://www.42sp.org.br/)
   - Blockchain.
 - 🌱 **I'm currently learning:**
   - [Rust](https://www.rust-lang.org/) & [Web Assembly](https://webassembly.org/)
