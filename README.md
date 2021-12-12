@@ -190,7 +190,7 @@
 </tr><tr>
 <td>
 
-- [Minimal Wiki](wiki1776.herokuapp.com/)
+- [Minimal Wiki](https://wiki1776.herokuapp.com/)
 - [Web Scrapper](https://nc-gojobs.herokuapp.com//)
 
 </td>
