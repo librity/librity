@@ -123,20 +123,27 @@
 
 #### Rails
 
-- https://sampleapp1776.herokuapp.com/
-- https://neodesk.herokuapp.com/
+- [Twitter Clone](https://sampleapp1776.herokuapp.com/)
 
 #### Node
 
+- [Zoom Clone](https://zoomclone1776.herokuapp.com/)
+
+#### React
+
 - [Blockchain mining simulator](https://create-react-mine.vercel.app)
-- https://www.tuttoinlegno.com.br/
-- https://github1776.netlify.app/
-- https://gobarber1776.netlify.app/
-- https://gympoint1776.netlify.app/
-- https://bethehero1776.netlify.app/
-- https://githubrepos1776.netlify.app/
-- https://moveit-lfwxit6xp-librity.vercel.app/
+- [Tech Blog Demo](https://tech1776.netlify.app/)
+- [Pretty Github Explorer](https://github1776.netlify.app/)
+- [NGO/Charity System](https://bethehero1776.netlify.app/)
+- [Gym Management System](https://gympoint1776.netlify.app/)
+- [Barbershop Management System](https://gobarber1776.netlify.app/)
+- [To do List](https://todo1776.netlify.app/)
+- [Landing Page Demo](https://iworldtrip.netlify.app/)
+- [Workshop Landing Page](https://genioledesigns.netlify.app/)
+- [Pomodoro with stretching](https://moveit-lfwxit6xp-librity.vercel.app/)
+- [Ugly Github Explorer](https://githubrepos1776.netlify.app/)
 
 #### Hugo
 
-- https://42devdiaries.netlify.app/
+- [My Tech Blog](https://42devdiaries.netlify.app/)
+- [Production-ready template](https://hugonetlifytemplate.netlify.app/)
