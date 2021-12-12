@@ -19,7 +19,7 @@
 </td>
 <td>
 
-- Blockchain.
+- Blockchain
 
 </td>
 </tr></table>
@@ -164,6 +164,7 @@
 - [NGO/Charity System](https://bethehero1776.netlify.app/)
 - [Gym Management System](https://gympoint1776.netlify.app/)
 - [Barbershop Management System](https://gobarber1776.netlify.app/)
+
 </td>
 <td>
 
@@ -184,8 +185,9 @@
 
 <th> Go </th>
 <th> Hugo </th>
-<th> Node </th>
 <th> Rails </th>
+<th> Node </th>
+<th> Elixir </th>
 
 </tr><tr>
 <td>
@@ -208,6 +210,11 @@
 <td>
 
 - [Zoom Clone](https://zoomclone1776.herokuapp.com/)
+
+</td>
+<td>
+
+- [Food Delivery API](https://github.com/librity/ignite_rockelivery)
 
 </td>
 </tr></table>
