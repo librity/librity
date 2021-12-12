@@ -182,11 +182,18 @@
 
 <table><tr><tr>
 
+<th> Go </th>
 <th> Hugo </th>
 <th> Node </th>
 <th> Rails </th>
 
 </tr><tr>
+<td>
+
+- [Minimal Wiki](wiki1776.herokuapp.com/)
+- [Web Scrapper](https://nc-gojobs.herokuapp.com//)
+
+</td>
 <td>
 
 - [My Tech Blog](https://42devdiaries.netlify.app/)
