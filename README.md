@@ -10,17 +10,45 @@
 ### My name is Luis and I really like Code
 
 - 🔭 **I'm currently working on:**
-  - [42 São Paulo](https://www.42sp.org.br/)
-  - Blockchain.
+
+<table><tr>
+<td>
+
+- [42 São Paulo](https://www.42sp.org.br/)
+
+</td>
+<td>
+
+- Blockchain.
+
+</td>
+</tr></table>
+
 - 🌱 **I'm currently learning:**
-  - [Rust](https://www.rust-lang.org/) & [Web Assembly](https://webassembly.org/)
-  - [Elixir](https://hexdocs.pm/elixir/Kernel.html) & [Phoenix](https://hexdocs.pm/phoenix/Phoenix.html)
-  - [Golang](https://golang.org/doc) & [Blockchain](https://en.wikipedia.org/wiki/Peer-to-peer)
-  - [C](https://devdocs.io/c) & [The Linux Kernel](https://github.com/torvalds/linux)
-  - [Solidity](https://docs.soliditylang.org/en/latest/) & [Haskell](https://www.haskell.org/documentation/)
+
+<table><tr>
+<td>
+
+- [Rust](https://www.rust-lang.org/) & [Web Assembly](https://webassembly.org/)
+- [Elixir](https://hexdocs.pm/elixir/Kernel.html) & [Phoenix](https://hexdocs.pm/phoenix/Phoenix.html)
+
+</td>
+<td>
+
+- [Golang](https://golang.org/doc) & [Blockchain](https://en.wikipedia.org/wiki/Peer-to-peer)
+- [C](https://devdocs.io/c) & [The Linux Kernel](https://github.com/torvalds/linux)
+
+</td>
+<td>
+
+- [Solidity](https://docs.soliditylang.org/en/latest/) & [Haskell](https://www.haskell.org/documentation/)
+
+</td>
+</tr></table>
+
 - 🤝 **I'm looking to collaborate on:** Pretty much anything.
 - 🤔 **I'm looking for help with:** All the above ☝️.
-- 💬 **Ask me about:** Ruby, Rails, Golang, Elixir, Phoenix, React, Node, Physics, Math, Electronic and Petroleum Engineering.
+- 💬 **Ask me about:** Ruby, Rails, Golang, Elixir, Phoenix, React, Node, Physics, Math, Electrical and Petroleum Engineering.
 - 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day).
 
 ### Languages
@@ -121,29 +149,58 @@
 
 ### Live Apps
 
-#### Rails
-
-- [Twitter Clone](https://sampleapp1776.herokuapp.com/)
-
-#### Node
-
-- [Zoom Clone](https://zoomclone1776.herokuapp.com/)
-
-#### React
+<table><tr>
+<tr><th> React </th></tr>
+<tr>
+<td>
 
 - [Blockchain mining simulator](https://create-react-mine.vercel.app)
 - [Tech Blog Demo](https://tech1776.netlify.app/)
 - [Pretty Github Explorer](https://github1776.netlify.app/)
+
+</td>
+<td>
+
 - [NGO/Charity System](https://bethehero1776.netlify.app/)
 - [Gym Management System](https://gympoint1776.netlify.app/)
 - [Barbershop Management System](https://gobarber1776.netlify.app/)
+</td>
+<td>
+
 - [To do List](https://todo1776.netlify.app/)
 - [Landing Page Demo](https://iworldtrip.netlify.app/)
 - [Workshop Landing Page](https://genioledesigns.netlify.app/)
+
+</td>
+<td>
+
 - [Pomodoro with stretching](https://moveit-lfwxit6xp-librity.vercel.app/)
 - [Ugly Github Explorer](https://githubrepos1776.netlify.app/)
 
-#### Hugo
+</td>
+</tr></table>
+
+<table><tr><tr>
+
+<th> Hugo </th>
+<th> Node </th>
+<th> Rails </th>
+
+</tr><tr>
+<td>
 
 - [My Tech Blog](https://42devdiaries.netlify.app/)
 - [Production-ready template](https://hugonetlifytemplate.netlify.app/)
+
+</td>
+<td>
+
+- [Twitter Clone](https://sampleapp1776.herokuapp.com/)
+
+</td>
+<td>
+
+- [Zoom Clone](https://zoomclone1776.herokuapp.com/)
+
+</td>
+</tr></table>
