@@ -69,8 +69,8 @@
 ### Techs
 
 [<code><img height="50" src="https://cdn-images-1.medium.com/max/1600/1*W9maDRfdQbydm_aECrzAiQ.png"></code>](https://hexdocs.pm/phoenix/Phoenix.html)
-[<code><img height="50" src="https://rubyonrails.org/images/rails-logo.svg"></code>](https://guides.rubyonrails.org/)
-[<code><img height="50" src="https://rspec.info/images/logo.png"></code>](https://relishapp.com/rspec)
+[<code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/rails-1.svg"></code>](https://guides.rubyonrails.org/)
+[<code><img height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rspec.svg"></code>](https://relishapp.com/rspec)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>](https://nodejs.org/en/docs/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>](https://expressjs.com/en/4x/api.html)
 [<code><img height="50" src="https://d33wubrfki0l68.cloudfront.net/72901cd2af29b26e7000165d9cb90366820717a1/dd121/writing/graphql-with-next-js-and-apollo/nextjs.svg"></code>](https://nextjs.org/docs)
