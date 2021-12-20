@@ -44,12 +44,13 @@
 <td>
 
 - [Solidity](https://docs.soliditylang.org/en/latest/) & [Haskell](https://www.haskell.org/documentation/)
+- [Crystal](https://crystal-lang.org/docs/)
 
 </td>
 </tr></table>
 
-- 🤝 **I'm looking to collaborate on:** Pretty much anything.
-- 🤔 **I'm looking for help with:** All the above ☝️.
+- 🤝 **I'm looking to collaborate on:** Blockchain and crypto.
+- 🤔 **I'm looking for help with:** Blockchain and crypto.
 - 💬 **Ask me about:** Ruby, Rails, Golang, Elixir, Phoenix, React, Node, Physics, Math, Electrical and Petroleum Engineering.
 - 📫 **How to reach me:** luis.geniole@gmail.com (I check it almost every day).
 
@@ -105,6 +106,7 @@
 ### Learning
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>](https://www.haskell.org/documentation/)
+[<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Crystal_language_logo.svg"></code>](https://crystal-lang.org/docs/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://doc.rust-lang.org/std/index.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>](https://developer.mozilla.org/en-US/docs/WebAssembly)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg"></code>](https://clojure.org/api/api)
