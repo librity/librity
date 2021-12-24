@@ -120,6 +120,7 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>](https://ethereum.org/en/developers/)
 [<code><img height="50" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg"></code>](https://solidity.readthedocs.io/en/v0.7.0/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>](https://www.jenkins.io/doc/tutorials/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>](https://docs.ansible.com/)
 
 ### 42 - Projects
 
