@@ -130,7 +130,8 @@
 
 ### 42 - Bootcamp Achievements
 
-<code><img width="120" style="border-radius: 10px;" src="./.github/Finished.png"></code>
+<!-- <code><img width="120" style="border-radius: 10px;" src="./.github/Finished.png"></code> -->
+
 <code><img width="120" style="border-radius: 10px;" src="./.github/Comunidade-1.png"></code>
 <code><img width="120" style="border-radius: 10px;" src="./.github/Helper-1.png"></code>
 <code><img width="120" style="border-radius: 10px;" src="./.github/Reconhecimento-de-Campo.png"></code>
@@ -164,7 +165,7 @@
 
 - [Blockchain mining simulator](https://create-react-mine.vercel.app)
 - [Tech Blog Demo](https://tech1776.netlify.app/)
-- [Pretty Github Explorer](https://github1776.netlify.app/)
+- [Better Momentum clone](https://impetus.vercel.app/)
 
 </td>
 <td>
@@ -185,6 +186,7 @@
 
 - [Pomodoro with stretching](https://moveit-lfwxit6xp-librity.vercel.app/)
 - [Ugly Github Explorer](https://githubrepos1776.netlify.app/)
+- [Pretty Github Explorer](https://github1776.netlify.app/)
 
 </td>
 </tr></table>
