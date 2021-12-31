@@ -5,7 +5,6 @@
 [![Github Folowers](https://img.shields.io/github/followers/librity?label=Followers&style=flat)](https://github.com/librity?tab=followers)
 [![Github Stars](https://img.shields.io/github/stars/librity?label=Stars&style=flat)](https://github.com/librity?tab=repositories)
 [![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=librity.librity)](https://github.com/librity)
-[![Discord](https://img.shields.io/badge/Discord-friend?&color=5865F2&logo=discord&logoColor=white)](https://discordapp.com/users/540680540160917525)
 [![Linkedin](https://img.shields.io/badge/-Luis%20Geniole-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-geniole)
 [![Mail](https://img.shields.io/badge/-luis.geniole@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:luis.geniole@gmail.com)
 
@@ -55,7 +54,6 @@
 - 🤔 **I'm looking for help with:** Blockchain and crypto.
 - 💬 **Ask me about:** Ruby, Rails, Golang, Elixir, Phoenix, React, Node, Physics, Math, Electrical and Petroleum Engineering.
 - 📫 **How to reach me:** [![Mail](https://img.shields.io/badge/-luis.geniole@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:luis.geniole@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-friend?&color=5865F2&logo=discord&logoColor=white)](https://discordapp.com/users/540680540160917525)
 
 ### Languages
 
