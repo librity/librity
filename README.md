@@ -10,52 +10,36 @@
 
 > Behind the shell there's only daemons.
 
-### My name is Luis and I like Code
+### My name is Luis and I like code
 
-- 🔭 **I'm currently working on:**
-
-<table><tr>
-<td>
-
-- [42 São Paulo](https://www.42sp.org.br/)
-
-</td>
-<td>
-
-- Blockchain and crypto.
-
-</td>
-</tr></table>
-
-- 🌱 **I'm currently learning:**
+I started my career as a Rails and React developer at [Grupo Bio Ritmo](https://github.com/bioritmo).
+I study Software Engineering at [42 São Paulo](https://www.42sp.org.br/).
+I'm currently focusing on:
 
 <table><tr>
-<td>
-
-- [Rust](https://www.rust-lang.org/) & [Web Assembly](https://webassembly.org/)
-- [Elixir](https://hexdocs.pm/elixir/Kernel.html) & [Phoenix](https://hexdocs.pm/phoenix/Phoenix.html)
-
-</td>
 <td>
 
 - [Golang](https://golang.org/doc) & [Blockchain](https://en.wikipedia.org/wiki/Peer-to-peer)
+
+</td>
+<td>
+
 - [C](https://devdocs.io/c) & [The Linux Kernel](https://github.com/torvalds/linux)
 
 </td>
 <td>
 
 - [Solidity](https://docs.soliditylang.org/en/latest/) & [Haskell](https://www.haskell.org/documentation/)
+
+</td>
+<td>
+
 - [Crystal](https://crystal-lang.org/docs/)
 
 </td>
 </tr></table>
 
-- 🤝 **I'm looking to collaborate on:** Blockchain and crypto.
-- 🤔 **I'm looking for help with:** Blockchain and crypto.
-- 💬 **Ask me about:** Ruby, Rails, Golang, Elixir, Phoenix, React, Node, Physics, Math, Electrical and Petroleum Engineering.
-- 📫 **How to reach me:** [![Mail](https://img.shields.io/badge/-luis.geniole@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:luis.geniole@gmail.com)
-
-### Languages
+### Languages I'm comfortable with
 
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></code>](https://devdocs.io/c/)
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>](https://isocpp.org/std/the-standard)
@@ -68,7 +52,7 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>](https://devdocs.io/bash/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>](https://golang.org/doc/)
 
-### Techs
+### Techs I've used
 
 [<code><img height="50" src="https://cdn-images-1.medium.com/max/1600/1*W9maDRfdQbydm_aECrzAiQ.png"></code>](https://hexdocs.pm/phoenix/Phoenix.html)
 [<code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/rails-1.svg"></code>](https://guides.rubyonrails.org/)
@@ -104,7 +88,7 @@
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>](https://curl.haxx.se/docs/)
 [<code><img height="50" src="https://download.logo.wine/logo/GNU_Emacs/GNU_Emacs-Logo.wine.png"></code>](https://www.gnu.org/software/emacs/documentation.html)
 
-### Learning
+### Things I wanna learn
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>](https://www.haskell.org/documentation/)
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Crystal_language_logo.svg"></code>](https://crystal-lang.org/docs/)
@@ -128,8 +112,6 @@
 
 ### 42 - Bootcamp Achievements
 
-<!-- <code><img width="120" style="border-radius: 10px;" src="./.github/Finished.png"></code> -->
-
 <code><img width="120" style="border-radius: 10px;" src="./.github/Comunidade-1.png"></code>
 <code><img width="120" style="border-radius: 10px;" src="./.github/Helper-1.png"></code>
 <code><img width="120" style="border-radius: 10px;" src="./.github/Reconhecimento-de-Campo.png"></code>
@@ -142,17 +124,6 @@
 <code><img width="120" style="border-radius: 10px;" src="./.github/Super-comunidade.png"></code>
 <code><img width="120" style="border-radius: 10px;" src="./.github/Super-Helper.png"></code>
 <code><img width="120" style="border-radius: 10px;" src="./.github/Super-Vila.png"></code>
-
-### Stats :octocat:
-
-<center>
-  <table>
-    <tr>
-      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=librity&show_icons=true&theme=dracula></td>
-      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=librity&show_icons=true&theme=dracula&layout=compact></td>
-    </tr>  
-  </table>
-</center>
 
 ### Live Apps
 
