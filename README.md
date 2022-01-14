@@ -109,21 +109,7 @@ I'm currently focusing on:
 [<code><img width="120" style="border-radius: 10px;" src="./.github/get_next_line.png"></code>](https://github.com/librity/ft_get_next_line)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/netwhat.png"></code>](https://github.com/librity/ft_netwhat)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_printf.png"></code>](https://github.com/librity/ft_printf)
-
-### 42 - Bootcamp Achievements
-
-<code><img width="120" style="border-radius: 10px;" src="./.github/Comunidade-1.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Helper-1.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Reconhecimento-de-Campo.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Vila-Unida-1.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Comunidade-2.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Helper-2.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Primeiras-trilhas.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/explorador.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Foco-2.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Super-comunidade.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Super-Helper.png"></code>
-<code><img width="120" style="border-radius: 10px;" src="./.github/Super-Vila.png"></code>
+[<code><img width="120" style="border-radius: 10px;" src="./.github/ft_born2beroot.png"></code>](https://github.com/librity/ft_born2beroot)
 
 ### Live Apps
 
