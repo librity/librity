@@ -110,6 +110,7 @@ I'm currently focusing on:
 [<code><img width="120" style="border-radius: 10px;" src="./.github/netwhat.png"></code>](https://github.com/librity/ft_netwhat)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_printf.png"></code>](https://github.com/librity/ft_printf)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_born2beroot.png"></code>](https://github.com/librity/ft_born2beroot)
+[<code><img width="120" style="border-radius: 10px;" src="./.github/ft_fractol.png"></code>](https://github.com/librity/ft_fractol)
 
 ### Live Apps
 
