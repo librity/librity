@@ -185,3 +185,7 @@ I'm currently focusing on:
 
 </td>
 </tr></table>
+
+### When In Doubt
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLPHtlE3wckGN4VK-lH0sLBWDd7BQSDIob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
