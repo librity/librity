@@ -10,6 +10,8 @@
 
 > Behind the shell there's only daemons.
 
+> When in doubt: [Pilgrim, Surfer, Doolittle, Bossanova and Trompe](https://www.youtube.com/watch?v=3Ep8X38tjTg&list=PLPHtlE3wckGN4VK-lH0sLBWDd7BQSDIob)
+
 ### My name is Luis and I like code
 
 I started my career as a Rails and React developer at [Grupo Bio Ritmo](https://github.com/bioritmo).
@@ -185,7 +187,3 @@ I'm currently focusing on:
 
 </td>
 </tr></table>
-
-### When In Doubt
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLPHtlE3wckGN4VK-lH0sLBWDd7BQSDIob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
