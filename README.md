@@ -107,12 +107,14 @@ I'm currently focusing on:
 
 ### 42 - Projects
 
+[<code><img width="120" style="border-radius: 10px;" src="./.github/ft_creator.png"></code>](https://docs.google.com/presentation/d/1jQFeNh26VdVB7vO-ZypKq3XRiO2zCfAMUdEyJkXh_Ts/edit?usp=sharing)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/libft.png"></code>](https://github.com/librity/ft_libft)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/get_next_line.png"></code>](https://github.com/librity/ft_get_next_line)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/netwhat.png"></code>](https://github.com/librity/ft_netwhat)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_printf.png"></code>](https://github.com/librity/ft_printf)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_born2beroot.png"></code>](https://github.com/librity/ft_born2beroot)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_fractol.png"></code>](https://github.com/librity/ft_fractol)
+[<code><img width="120" style="border-radius: 10px;" src="./.github/ft_pipex.png"></code>](https://github.com/librity/ft_pipex)
 
 ### Live Apps
 
