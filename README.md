@@ -10,7 +10,7 @@
 
 > Behind the shell there's only daemons.
 
-> When in doubt: [Pilgrim, Surfer, Doolittle, Bossanova and Trompe](https://www.youtube.com/watch?v=3Ep8X38tjTg&list=PLPHtlE3wckGN4VK-lH0sLBWDd7BQSDIob)
+> When in doubt: [Pixies](https://www.youtube.com/watch?v=3Ep8X38tjTg&list=PLPHtlE3wckGN4VK-lH0sLBWDd7BQSDIob)
 
 ### My name is Luis and I like code
 
