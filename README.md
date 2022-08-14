@@ -89,7 +89,7 @@ I'm currently focusing on:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>](https://help.ubuntu.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>](https://www.raspberrypi.org/documentation/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>](https://www.arduino.cc/reference/en/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>](https://curl.haxx.se/docs/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>](https://curl.se/libcurl)
 [<code><img height="50" src="https://download.logo.wine/logo/GNU_Emacs/GNU_Emacs-Logo.wine.png"></code>](https://www.gnu.org/software/emacs/documentation.html)
 
 ### Things I wanna learn
