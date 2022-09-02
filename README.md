@@ -110,6 +110,7 @@ I'm currently focusing on:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>](https://ethereum.org/en/developers/)
 [<code><img height="50" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg"></code>](https://solidity.readthedocs.io/en/v0.7.0/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>](https://www.lua.org/docs.html)
+[<code><img height="50" src="./.github/holyc.png"></code>](https://templeos.holyc.xyz/Wb/Doc/HolyC.html#l1)
 
 ### 42 - Projects
 
