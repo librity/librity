@@ -123,6 +123,7 @@ I'm currently focusing on:
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_fractol.png"></code>](https://github.com/librity/ft_fractol)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_pipex.png"></code>](https://github.com/librity/ft_pipex)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_push_swap.png"></code>](https://github.com/librity/ft_push_swap)
+[<code><img width="120" style="border-radius: 10px;" src="./.github/ft_minihell.png"></code>](https://github.com/librity/ft_minishell)
 [<code><img width="120" style="border-radius: 10px;" src="./.github/ft_labs_v3.png"></code>](https://github.com/librity/ft_netmon)
 
 ### Live Apps
