@@ -173,7 +173,7 @@ I'm currently focusing on:
 <td>
 
 - [Minimal Wiki](https://wiki1776.herokuapp.com/)
-- [Web Scrapper](https://nc-gojobs.herokuapp.com/)
+- [Web Scraper](https://nc-gojobs.herokuapp.com/)
 
 </td>
 <td>
