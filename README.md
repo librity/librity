@@ -55,6 +55,7 @@ I'm currently focusing on:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>](https://www.python.org/doc/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>](https://devdocs.io/bash/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>](https://golang.org/doc/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>](https://docs.scala-lang.org/)
 
 ### Techs I've used
 
@@ -74,7 +75,7 @@ I'm currently focusing on:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>](https://docs.docker.com/compose/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>](https://redis.io/documentation)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>](https://sequelize.org/master/)
-[<code><img height="50" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png"></code>](https://typeorm.io/)
+[<code><img height="50" src="https://raw.githubuserconhttps://docs.scala-lang.org/tent.com/typeorm/typeorm/master/resources/logo_big.png"></code>](https://typeorm.io/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg"></code>](https://adonisjs.com/docs/4.1/lucid)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>](https://www.postgresql.org/docs/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>](https://dev.mysql.com/doc/)
