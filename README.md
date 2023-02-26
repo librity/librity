@@ -17,28 +17,28 @@
 ### My name is Luis and I like code
 
 I started my career as a Rails and React developer at [Grupo Bio Ritmo](https://github.com/bioritmo).
-I study Software Engineering at [42 São Paulo](https://www.42sp.org.br/).
+I study Software Engineering at [42 São Paulo](https://www.42sp.org.br/),
+and work as a RAC Engineer at Santander Corporate & Investment Banking.
 I'm currently focusing on:
 
 <table><tr>
 <td>
 
-- [Golang](https://golang.org/doc) & [Blockchain](https://en.wikipedia.org/wiki/Peer-to-peer)
+- [C](https://devdocs.io/c)
+- [C++](https://devdocs.io/cpp)
+- [The Linux Kernel](https://github.com/torvalds/linux)
 
 </td>
 <td>
 
-- [C](https://devdocs.io/c) & [The Linux Kernel](https://github.com/torvalds/linux)
+- [Golang](https://golang.org/doc)
+- [Rust](https://doc.rust-lang.org/std/index.html)
 
 </td>
 <td>
 
-- [Solidity](https://docs.soliditylang.org/en/latest/) & [Haskell](https://www.haskell.org/documentation/)
-
-</td>
-<td>
-
-- [Crystal](https://crystal-lang.org/docs/)
+- [Pentesting](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [InfoSec](https://www.cve.org/)
 
 </td>
 </tr></table>
@@ -59,6 +59,7 @@ I'm currently focusing on:
 
 ### Techs I've used
 
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>](https://spark.apache.org/documentation.html)
 [<code><img height="50" src="https://cdn-images-1.medium.com/max/1600/1*W9maDRfdQbydm_aECrzAiQ.png"></code>](https://hexdocs.pm/phoenix/Phoenix.html)
 [<code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/rails-1.svg"></code>](https://guides.rubyonrails.org/)
 [<code><img height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rspec.svg"></code>](https://relishapp.com/rspec)
@@ -95,6 +96,9 @@ I'm currently focusing on:
 
 ### Things I wanna learn
 
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>](https://docs.oracle.com/en/java/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>](https://docs.djangoproject.com/en/4.1/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>](https://developer.mozilla.org/en-US/docs/WebAssembly)
 [<code><img height="50" src="./.github/netwide_assembler.svg"></code>](https://nasm.us/docs.php)
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Crystal_language_logo.svg"></code>](https://crystal-lang.org/docs/)
