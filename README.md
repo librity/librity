@@ -24,21 +24,17 @@ I'm currently focusing on:
 <table><tr>
 <td>
 
-- [C](https://devdocs.io/c)
-- [C++](https://devdocs.io/cpp)
-- [The Linux Kernel](https://github.com/torvalds/linux)
+- [C](https://devdocs.io/c)/[C++](https://devdocs.io/cpp) & [The Linux Kernel](https://github.com/torvalds/linux)
 
 </td>
 <td>
 
-- [Golang](https://golang.org/doc)
-- [Rust](https://doc.rust-lang.org/std/index.html)
+- [Golang](https://golang.org/doc) & [Rust](https://doc.rust-lang.org/std/index.html)
 
 </td>
 <td>
 
-- [Pentesting](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
-- [InfoSec](https://www.cve.org/)
+- [Pentesting](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) & [InfoSec](https://www.cve.org/)
 
 </td>
 </tr></table>
