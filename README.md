@@ -60,6 +60,7 @@ I'm currently focusing on:
 [<code><img height="50" src="https://cdn-images-1.medium.com/max/1600/1*W9maDRfdQbydm_aECrzAiQ.png"></code>](https://hexdocs.pm/phoenix/Phoenix.html)
 [<code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/rails-1.svg"></code>](https://guides.rubyonrails.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>](https://docs.djangoproject.com/en/4.1/)
 [<code><img height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rspec.svg"></code>](https://relishapp.com/rspec)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>](https://nodejs.org/en/docs/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>](https://expressjs.com/en/4x/api.html)
@@ -95,7 +96,6 @@ I'm currently focusing on:
 
 ### Things I wanna learn
 
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>](https://docs.djangoproject.com/en/4.1/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>](https://developer.mozilla.org/en-US/docs/WebAssembly)
 [<code><img height="50" src="./.github/netwide_assembler.svg"></code>](https://nasm.us/docs.php)
 [<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Crystal_language_logo.svg"></code>](https://crystal-lang.org/docs/)
