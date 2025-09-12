@@ -52,12 +52,14 @@ I'm currently focusing on:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>](https://devdocs.io/bash/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>](https://golang.org/doc/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>](https://docs.scala-lang.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>](https://docs.oracle.com/en/java/)
 
 ### Techs I've used
 
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>](https://spark.apache.org/documentation.html)
 [<code><img height="50" src="https://cdn-images-1.medium.com/max/1600/1*W9maDRfdQbydm_aECrzAiQ.png"></code>](https://hexdocs.pm/phoenix/Phoenix.html)
 [<code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/rails-1.svg"></code>](https://guides.rubyonrails.org/)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 [<code><img height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rspec.svg"></code>](https://relishapp.com/rspec)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>](https://nodejs.org/en/docs/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>](https://expressjs.com/en/4x/api.html)
@@ -89,11 +91,10 @@ I'm currently focusing on:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>](https://www.arduino.cc/reference/en/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>](https://curl.se/libcurl)
 [<code><img height="50" src="https://download.logo.wine/logo/GNU_Emacs/GNU_Emacs-Logo.wine.png"></code>](https://www.gnu.org/software/emacs/documentation.html)
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>](https://www.jenkins.io/doc/tutorials/)
 
 ### Things I wanna learn
 
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>](https://docs.oracle.com/en/java/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>](https://docs.djangoproject.com/en/4.1/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>](https://developer.mozilla.org/en-US/docs/WebAssembly)
 [<code><img height="50" src="./.github/netwide_assembler.svg"></code>](https://nasm.us/docs.php)
@@ -106,7 +107,6 @@ I'm currently focusing on:
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>](https://www.tensorflow.org/guide/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>](https://www.electronjs.org/docs)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>](https://www.haskell.org/documentation/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>](https://www.jenkins.io/doc/tutorials/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-ar21.svg"></code>](https://nim-lang.org/documentation.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>](https://ethereum.org/en/developers/)
 [<code><img height="50" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg"></code>](https://solidity.readthedocs.io/en/v0.7.0/)
