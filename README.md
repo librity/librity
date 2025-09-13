@@ -4,7 +4,6 @@
 
 [![Github Folowers](https://img.shields.io/github/followers/librity?label=Followers&style=flat)](https://github.com/librity?tab=followers)
 [![Github Stars](https://img.shields.io/github/stars/librity?label=Stars&style=flat)](https://github.com/librity?tab=repositories)
-[![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=librity.librity)](https://github.com/librity)
 [![Linkedin](https://img.shields.io/badge/-Luis%20Geniole-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-geniole)
 [![Mail](https://img.shields.io/badge/-luis.geniole@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:luis.geniole@gmail.com)
 
@@ -96,18 +95,14 @@ I'm currently focusing on:
 
 ### Things I wanna learn
 
+[<code><img height="50" src="https://www.vectorlogo.zone/logos/ziglang/ziglang-ar21.svg"></code>](https://ziglang.org/documentation/0.9.1/)
+[<code><img height="50" src="https://odin-lang.org/logo.svg"></code>](https://odin-lang.org/docs)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>](https://developer.mozilla.org/en-US/docs/WebAssembly)
 [<code><img height="50" src="./.github/netwide_assembler.svg"></code>](https://nasm.us/docs.php)
-[<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Crystal_language_logo.svg"></code>](https://crystal-lang.org/docs/)
-[<code><img height="50" src="./.github/v_logo.svg"></code>](https://modules.vlang.io/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>](https://doc.rust-lang.org/std/index.html)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/ziglang/ziglang-ar21.svg"></code>](https://ziglang.org/documentation/0.9.1/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg"></code>](https://clojure.org/api/api)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>](https://docs.ansible.com/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>](https://www.tensorflow.org/guide/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>](https://www.electronjs.org/docs)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"></code>](https://www.haskell.org/documentation/)
-[<code><img height="50" src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-ar21.svg"></code>](https://nim-lang.org/documentation.html)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>](https://ethereum.org/en/developers/)
 [<code><img height="50" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg"></code>](https://solidity.readthedocs.io/en/v0.7.0/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></code>](https://www.lua.org/docs.html)
