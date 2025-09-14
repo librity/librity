@@ -1,4 +1,4 @@
-# Luis Geniola
+# Luis Geniole
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/librity.gif?z=6)](https://github.com/ethomson/github4life)
 
