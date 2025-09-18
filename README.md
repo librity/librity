@@ -95,6 +95,8 @@ I'm currently focusing on:
 
 ### Things I wanna learn
 
+[<code><img height="50" src="https://learnbchs.org/puffy.png"></code>](https://www.openbsd.org/)
+[<code><img height="50" src="https://learnbchs.org/logo-white.png"></code>](https://learnbchs.org/)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/ziglang/ziglang-ar21.svg"></code>](https://ziglang.org/documentation/0.9.1/)
 [<code><img height="50" src="https://odin-lang.org/logo.svg"></code>](https://odin-lang.org/docs)
 [<code><img height="50" src="https://www.vectorlogo.zone/logos/webassembly/webassembly-ar21.svg"></code>](https://developer.mozilla.org/en-US/docs/WebAssembly)
