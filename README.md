@@ -11,7 +11,7 @@
 
 > If I had more time I would write fewer words.
 
-> When in doubt: [Pixies](https://www.youtube.com/watch?v=3Ep8X38tjTg&list=PLPHtlE3wckGN4VK-lH0sLBWDd7BQSDIob)
+> My radio: [Pixies](https://www.youtube.com/watch?v=3Ep8X38tjTg&list=PLPHtlE3wckGN4VK-lH0sLBWDd7BQSDIob) & [Mozart](https://www.youtube.com/watch?v=ojDuSz7YxTw) 
 
 ### My name is Luis and I like code
 
@@ -23,12 +23,17 @@ I'm currently focusing on:
 <table><tr>
 <td>
 
-- [C](https://devdocs.io/c)/[C++](https://devdocs.io/cpp) & [The Linux Kernel](https://github.com/torvalds/linux)
+- [C](https://devdocs.io/c) & [The Linux Kernel](https://github.com/torvalds/linux)
 
 </td>
 <td>
 
-- [Golang](https://golang.org/doc) & [Rust](https://doc.rust-lang.org/std/index.html)
+- [OpenBSD](https://www.openbsd.org/) & [BCHS](https://learnbchs.org/)
+
+</td>
+<td>
+
+- [Golang](https://golang.org/doc), [Zig](https://ziglang.org/documentation/0.9.1/) & [Elixir](https://hexdocs.pm/elixir/Kernel.html)
 
 </td>
 <td>
